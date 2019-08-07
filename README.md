@@ -25,4 +25,8 @@ Find the supermarket which will provide me the cheapest products for my input as
 	Rice - Supermarket 1
 	Sugar - Supermarket 1
 	
+#### Execute
+	g++ main.cpp -o main
+	./main
+	
 ![1](https://user-images.githubusercontent.com/50991324/62614385-ebf45700-b928-11e9-9ab1-4b200bbc8fac.png)
