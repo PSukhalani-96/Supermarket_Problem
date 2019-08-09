@@ -8,9 +8,9 @@ And there aretwo supermarkets: Supermarket 1 and Supermarket 2. Below are the pr
 
 	Supermarket 1					Supermarket 2
 	-------------					-------------
-	Bread - 15						Bread - 10
-	Rice - 60						Rice - 62
-	Sugar - 40						Sugar - 41
+	Bread - 15					Bread - 10
+	Rice - 60					Rice - 62
+	Sugar - 40					Sugar - 41
 	
 #### INPUT
 If you want to buy the following quantities:
