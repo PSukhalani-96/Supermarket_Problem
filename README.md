@@ -1,10 +1,12 @@
 # Supermarket_Problem
 
 Given there is a list of products like this:
+	
 	Bread
 	Rice
 	Sugar
-And there aretwo supermarkets: Supermarket 1 and Supermarket 2. Below are the prices in each Supermarket.
+
+And there are two supermarkets: Supermarket 1 and Supermarket 2. Below are the prices in each Supermarket.
 
 	Supermarket 1					Supermarket 2
 	-------------					-------------
@@ -21,6 +23,7 @@ If you want to buy the following quantities:
 	
 #### OUTPUT
 Find the supermarket which will provide me the cheapest products for my input assuming that you can split the buying process into 1 trip for each supermarket, ie. you can go to both so as to maximize your buying power:
+	
 	Bread - Supermarket 2
 	Rice - Supermarket 1
 	Sugar - Supermarket 1
